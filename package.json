@@ -16,5 +16,8 @@
   "author": "Kevin Simper",
   "license": "BSD",
   "readmeFilename": "README.md",
-  "gitHead": "c3b1db2ad7bc03381765d4a971499d97bdf59c6e"
+  "gitHead": "c3b1db2ad7bc03381765d4a971499d97bdf59c6e",
+  "dependencies": {
+    "request": "~2.14.0"
+  }
 }
