@@ -1,6 +1,6 @@
 {
   "name": "ironio-js",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A helper to the Iron.io service",
   "main": "ironio-js.js",
   "scripts": {
